@@ -33,4 +33,4 @@ Medium
 
 ## Attachment
 ![Bug #6 Screenshot](./6-bug.png)
-![Bug #6 GIF](./6-bug.gif)
+![Bug #6 GIF](./6-bug-gif.gif)
