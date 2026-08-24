@@ -1,1 +1,1 @@
-# academybugs-manual-testing
+A comprehensive collection of manual QA artifacts—test cases, exploratory testing notes, and detailed bug reports—created using the AcademyBugs practice platform.
